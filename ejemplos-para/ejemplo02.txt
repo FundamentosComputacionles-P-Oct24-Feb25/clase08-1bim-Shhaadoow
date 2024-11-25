@@ -1,0 +1,11 @@
+// Generar un programa que presente en pantalla
+// o escriba en pantalla los números menores o iguales a 10.
+// Los números deben empezar en 1 y un incremente de 2 en 2
+
+
+1. Inicioi
+2. num, i[0, n]
+3. Para(num<--3, num>0, -1) haga
+4.     Escribir num
+5. Fin_Para
+6. Fin
